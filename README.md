@@ -2,9 +2,9 @@
 
 **Analista de datos y procesos** · Costa Rica 🇨🇷
 
-Tengo más de 13 años de experiencia en **operaciones financieras y entrada de datos** en empresas multinacionales. Me especializo en **analizar datos, encontrar cuellos de botella y automatizar procesos** para que los equipos trabajen más rápido y con menos errores.
+Tengo más de 13 años de experiencia en **operaciones financieras y entrada de datos** en empresas multinacionales. Me especializo en **analizar datos, encontrar cuellos de botella y automatizar procesos** (más de 100 flujos de RPA en Power Automate) para que los equipos trabajen más rápido y con menos errores.
 
-> *Data & process analyst with 13+ years in financial operations. I turn manual, error-prone work into automated tools and clear dashboards.*
+> *Data & process analyst with 13+ years in financial operations. I turn manual, error-prone work into automated tools (100+ Power Automate RPA flows) and clear dashboards.*
 
 ---
 
@@ -14,6 +14,7 @@ Tengo más de 13 años de experiencia en **operaciones financieras y entrada de 
 |---|---|
 | **Datos y reportes** | SQL (consultas en Microsoft Access), Excel avanzado |
 | **Visualización** | Power BI (certificado): DAX, Power Query, modelado de datos |
+| **Automatización (RPA)** | **Power Automate Desktop: más de 100 flujos creados** · Power Automate Cloud |
 | **Programación** | Python: automatización, Excel con `openpyxl`, aplicaciones de escritorio con `tkinter`, pruebas con `pytest` |
 | **Otros** | Big Data (certificado), Git y GitHub, herramientas de IA para productividad |
 
@@ -41,7 +42,7 @@ Consultas de reportes operativos sobre una base de datos de ejemplo.
 
 ## 💡 Lo que aporto
 
-- **Mejora de procesos:** detecto tareas repetitivas y las automatizo.
+- **Mejora de procesos:** detecto tareas repetitivas y las automatizo con Power Automate o Python.
 - **Calidad de datos:** validaciones, controles cruzados y revisiones automáticas.
 - **Reportes que se usan:** dashboards claros para tomar decisiones.
 - **Seguridad desde el diseño:** protejo los datos sensibles y no publico datos reales.
