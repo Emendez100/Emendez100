@@ -15,7 +15,7 @@ Tengo más de 13 años de experiencia en **operaciones financieras y entrada de 
 | **Datos y reportes** | SQL (consultas en Microsoft Access), Excel avanzado |
 | **Visualización** | Power BI (certificado): DAX, Power Query, modelado de datos |
 | **Automatización (RPA)** | **Power Automate Desktop: más de 100 flujos creados** · Power Automate Cloud |
-| **Programación** | Python: automatización, Excel con `openpyxl`, aplicaciones de escritorio con `tkinter`, pruebas con `pytest` |
+| **Programación** | Python: análisis de datos con `pandas` y `matplotlib`, automatización de Excel con `openpyxl`, aplicaciones de escritorio con `tkinter` y pruebas con `pytest` |
 | **Otros** | Big Data (certificado), Git y GitHub, herramientas de IA para productividad |
 
 ---
@@ -33,6 +33,12 @@ Aplicación de escritorio que **registra el tiempo por tarea** y detecta automá
 Herramienta que **revisa automáticamente el trabajo de configuración** de un analista contra la captura de control de un colega. Marca las diferencias en colores y calcula puntajes de calidad. Convierte una revisión manual de varios minutos en segundos.
 
 `Python` · `Excel` · `openpyxl` · `Control de calidad`
+
+### 📊 [Análisis de datos con Python (2022)](https://github.com/Emendez100/analisis-de-datos-2022)
+
+Proyectos del curso de Análisis de Datos de la Universidad Castro Carazo: **energías renovables y cambio climático en Costa Rica (2010–2018)** y **autos de segunda mano**. Limpieza, transformación y visualización de datos reales para responder una pregunta de negocio.
+
+`Python` · `pandas` · `NumPy` · `matplotlib` · `Jupyter`
 
 ### 🗄️ Proyecto de SQL — *próximamente*
 
