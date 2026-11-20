@@ -12,7 +12,7 @@ Tengo más de 13 años de experiencia en **operaciones financieras y entrada de 
 
 | Área | Herramientas |
 |---|---|
-| **Datos y reportes** | SQL (consultas en Microsoft Access), Excel avanzado |
+| **Datos y reportes** | SQL (consultas en Microsoft Access, VBA), Excel avanzado |
 | **Visualización** | Power BI (certificado): DAX, Power Query, modelado de datos |
 | **Automatización (RPA)** | **Power Automate Desktop: más de 100 flujos creados** · Power Automate Cloud |
 | **Programación** | Python: análisis de datos con `pandas` y `matplotlib`, automatización de Excel con `openpyxl`, aplicaciones de escritorio con `tkinter` y pruebas con `pytest` |
@@ -34,15 +34,23 @@ Herramienta que **revisa automáticamente el trabajo de configuración** de un a
 
 `Python` · `Excel` · `openpyxl` · `Control de calidad`
 
+### 🤖 [Automatización RPA con Power Automate](https://github.com/Emendez100/power-automate-rpa)
+
+Robot que hace **actualizaciones masivas en un sistema AS400 (IBM i)** a partir de una lista en Excel. Valida cada fila, deja evidencia del resultado y se puede volver a ejecutar sin duplicar cambios. Es una muestra de mis más de 100 flujos de RPA.
+
+`Power Automate Desktop` · `RPA` · `AS400 / IBM i` · `Excel`
+
+### 🗄️ [Reportes con SQL en Access](https://github.com/Emendez100/sql-access-reportes)
+
+Consultas como las que uso para los reportes de mi equipo: **JOINs de varias tablas**, consultas de creación de tabla, parámetros, **referencias cruzadas** y **controles de calidad de datos** (faltantes y duplicados), sobre una base de datos ficticia.
+
+`SQL` · `Microsoft Access` · `VBA` · `Calidad de datos`
+
 ### 📊 [Análisis de datos con Python (2022)](https://github.com/Emendez100/analisis-de-datos-2022)
 
 Proyectos del curso de Análisis de Datos de la Universidad Castro Carazo: **energías renovables y cambio climático en Costa Rica (2010–2018)** y **autos de segunda mano**. Limpieza, transformación y visualización de datos reales para responder una pregunta de negocio.
 
 `Python` · `pandas` · `NumPy` · `matplotlib` · `Jupyter`
-
-### 🗄️ Proyecto de SQL — *próximamente*
-
-Consultas de reportes operativos sobre una base de datos de ejemplo.
 
 ---
 
