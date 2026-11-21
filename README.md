@@ -2,9 +2,9 @@
 
 **Analista de datos y procesos** · Costa Rica 🇨🇷
 
-Tengo más de 13 años de experiencia en **operaciones financieras y entrada de datos** en empresas multinacionales. Me especializo en **analizar datos, encontrar cuellos de botella y automatizar procesos** (más de 100 flujos de RPA en Power Automate) para que los equipos trabajen más rápido y con menos errores.
+Tengo más de 11 años de experiencia en **operaciones de servicios financieros** en empresas multinacionales (Western Union y CAN Capital). Me especializo en **analizar datos, encontrar cuellos de botella y automatizar procesos** (más de 100 flujos de RPA en Power Automate) para que los equipos trabajen más rápido y con menos errores.
 
-> *Data & process analyst with 13+ years in financial operations. I turn manual, error-prone work into automated tools (100+ Power Automate RPA flows) and clear dashboards.*
+> *Data & process analyst with 11+ years in financial services operations. I turn manual, error-prone work into automated tools (100+ Power Automate RPA flows) and clear dashboards.*
 
 ---
 
@@ -65,4 +65,4 @@ Proyectos del curso de Análisis de Datos de la Universidad Castro Carazo: **ene
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elius%20Mendez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elios-mendez-ramirez-09189a140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elius%20Mendez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elius-mendez-ramirez-09189a140/)
